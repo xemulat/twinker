@@ -1,2 +1,2 @@
 # twinker
-help me please
+A Windows tweaker built in Flutter and Dart.
